@@ -1,6 +1,7 @@
 ---
 title: "Starting with data"
 author: "Alexia Cardona"
+output: pdf_document
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: "Getting Started"
 author: "Alexia Cardona"
+output:
+  html_document:
+    df_print: paged
 ---
 
 <br/>
